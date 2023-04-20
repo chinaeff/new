@@ -1,4 +1,3 @@
-//comments for Git
 package main
 
 import (
